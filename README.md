@@ -196,22 +196,6 @@ It combines data cleaning, data modeling, DAX calculations, and visualization te
 
 ---
 
-## 📷 Dashboard Preview
-
-### Overview Dashboard
-
-![Spotify Dashboard Overview](overview-dashboard.png)
-
-### Listening Patterns
-
-![Spotify Listening Patterns](listening-patterns.png)
-
-### Track Details
-
-![Spotify Track Details](track-details.png)
-
----
-
 ## 🔮 Future Enhancements
 
 Possible improvements include:
